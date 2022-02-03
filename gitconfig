@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jolys.nicolas1@gmail.com
+	name = nicolas jolys
